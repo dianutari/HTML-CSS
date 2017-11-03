@@ -12,8 +12,8 @@ Belajar dasar-dasar HTML dan CSS
              membuat form, textarea
              menggunakan attribute, label, dan id
              membuat checkbox, dan radio
-             membuat select, dan option</p>
-      <p>  2. Dasar CSS;
+             membuat select, dan option
+2. Dasar CSS;
              membuat selector dasar CSS (id, dan class)
              membuat background (warna, gambar, dan komentar)
              menghias link
@@ -23,11 +23,11 @@ Belajar dasar-dasar HTML dan CSS
              membuat posisi (relative, static, absolute, parent element)
              membuat z-index
              membuat float dan clear
-             menggunakan hover dan focus</p>
-      <p>  3. HTML5;
+             menggunakan hover dan focus
+3. HTML5;
              membuat caption pada gambar
-             memasukan video dan audio</p>
-      <p>  4. CSS3;
+             memasukan video dan audio
+4. CSS3;
              membuat border dan box (border radius, box shadow, box sizing dan vendor prefit)
              membuat text shadow, word wrap dan text overflow
              membuat 2d transform (translate dan rotate, scale dan skew)
