@@ -1,0 +1,80 @@
+body {
+  background: url("wallpaper.png");
+}
+
+h2 {
+  color: blue;
+}
+
+#menu_wrap {
+  margin-bottom: 30px;
+}
+
+#paragraph1 {
+  color: #BF4E3F;
+}
+
+#paragraph2 {
+  color: #3F9BBF;
+}
+
+#h2_member {
+  color: #46BF3F;
+}
+
+#text_form1{
+  color: #791FF1;
+}
+
+#text_form2{
+  color: #AC3FBF;
+}
+
+#text_welcome{
+  color: #93ef1f;
+}
+
+.menu {
+  display: inline-block;
+  width: 70px;
+  height: 30px;
+  text-decoration: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+}
+
+/*kondisi biasa*/
+.menu:link {
+  background: pink;
+  color: white;
+}
+
+/*kondisi setelah dikunjungi*/
+.menu:visited {
+  background: blue;
+  color: white
+}
+
+/*kondisi-hover (mouse berada diatasnya)*/
+.menu:hover {
+  background: green;
+}
+
+/*kondisi sedang di klik*/
+.menu:active {
+  background: brown;
+}
+
+ul, ol, dl {
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  width: 33.33%;
+}
+
+#copyright {
+  clear: both;
+  text-align: center;
+}
