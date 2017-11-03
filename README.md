@@ -2,7 +2,7 @@
 Belajar dasar-dasar HTML dan CSS
 1. Dasar html;
              heading paragraph
-             membuat link
+             membuat link<br>
              membuat frame
              format text (div, span, dan br)
              membuat kotak komentar
